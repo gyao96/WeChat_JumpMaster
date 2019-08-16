@@ -1,37 +1,12 @@
-## Automating WeChat Jumping Chess 
+> An independent project of daddygang @Zhejiang University
 
-You can use the [editor on GitHub](https://github.com/DaddyGang/WeChat_JumpMaster/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Automating WeChat Jumping Chess
+<center><iframe width="728" height="410" src="https://www.youtube.com/embed/70zUB0rf0Kg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+WeChat Jumping Chess game was popular in early 2018. People compete against each other trying to hit the highest record score among friends. Well, where there is competition, there is ~~cheating~~. While many automation methods on the Internet uses PDB tools or screenshots as an interface, these methods are easily busted by anti-cheating algorithms maintained by a bunch of smart people at WeChat team.
 
-### Markdown
+With my approach, using real camera as the sensor and steering motor as the executer, every time the arm hits the screen, the position is going to be slightly different. This means that there could be no means of distinguishing between a robot arm and a human player.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+With just several attempts, I managed to hit socres as high as *1437*.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaddyGang/WeChat_JumpMaster/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### For further information on the technical details on how I did this, please refer to [my blog post on ZhiHu](https://zhuanlan.zhihu.com/p/35527713) for the step-by-step break down.
